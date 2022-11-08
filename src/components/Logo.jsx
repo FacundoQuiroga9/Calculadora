@@ -1,3 +1,4 @@
+import React from 'react';
 import banner from '../img/banner-marca.png'
 import '../styles/App.css';
 
